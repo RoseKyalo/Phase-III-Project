@@ -107,7 +107,9 @@ Follow the instructions within the notebooks to replicate the analysis and run t
      │   ├── ...
      │
      ├── non-technical presentation/
-     │   ├── powerpoint
+     │   ├── SyriaTel Churn Analysis-Presentation
+     │   ├── SyriaTel Churn Analysi git hub.pdf
+     |   ├── SyrialTel analysis.pdf
      │   ├── ...
      │
      ├── README.md
